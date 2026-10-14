@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="EGO.Aztech.Client.Test/EGO.Aztech.Client.Test.csproj" />
+  <Project Path="EGO.Aztech.Client/EGO.Aztech.Client.csproj" />
+  <Project Path="EGO.Aztech.Core/EGO.Aztech.Core.csproj" />
+  <Project Path="EGO.Aztech.Server/EGO.Aztech.Server.csproj" />
+</Solution>
